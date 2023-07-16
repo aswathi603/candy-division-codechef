@@ -16,9 +16,9 @@ For each test case, output YES, if we can distribute all the candies between the
 You can output each character of the answer in uppercase or lowercase. For example, the strings yEs, yes, Yes, and YES are considered the same.
 
 Constraints
+1≤T≤100
+1≤N≤100
 
-      1≤T≤100
-      1≤N≤100
 
                       Input          Output
                       4                                
